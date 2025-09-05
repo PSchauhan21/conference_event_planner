@@ -1,4 +1,11 @@
 /* Venue selection styles */
+.navbar_event_conference {
+  background-color: #2152ac;
+  max-width: 1200px;
+  margin: 0 auto;
+  color: white;
+  padding: 5px 16px;
+}
 .venue_container {
     text-align: center;
     display: flex;
